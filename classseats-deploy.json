@@ -1,11 +1,11 @@
 {
-  "environment": "PROD",
-  "flavor": "mobile",
-  "domain": "mobile.classseats.app",
-  "deployRepo": "mifish3474/ClassSeats-Mobile",
-  "sourceRepository": "mifish3474/ClassSeats-Codex",
-  "sourceRef": "main",
-  "sourceSha": "60421c2570c82418c52ecc77be14efee7609f4d3",
-  "sourceRunId": "33505266124",
-  "sourceRunAttempt": "1"
+    "environment":  "PROD",
+    "flavor":  "mobile",
+    "domain":  "mobile.classseats.app",
+    "deployRepo":  "mifish3474/ClassSeats-Mobile",
+    "sourceRepository":  "mifish3474/ClassSeats-Codex",
+    "sourceRef":  "main",
+    "sourceSha":  "60421c2570c82418c52ecc77be14efee7609f4d3",
+    "sourceRunId":  "manual-local-2026-09-01",
+    "sourceRunAttempt":  "1"
 }
